@@ -142,6 +142,8 @@ com/android/server/LocationManagerService,getBestProvider,android.permission.ACC
 com/android/server/LocationManagerService,addGpsStatusListener,android.permission.ACCESS_COARSE_LOCATION
 ```
 
+You can use `/assets/sensitive_apis.csv` as a starting point.
+
 ## Output
 
 ### Output Directory Structure
